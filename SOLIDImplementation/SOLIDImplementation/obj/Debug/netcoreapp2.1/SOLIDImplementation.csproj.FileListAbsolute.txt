@@ -1,0 +1,11 @@
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\bin\Debug\netcoreapp2.1\SOLIDImplementation.deps.json
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\bin\Debug\netcoreapp2.1\SOLIDImplementation.runtimeconfig.json
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\bin\Debug\netcoreapp2.1\SOLIDImplementation.runtimeconfig.dev.json
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\bin\Debug\netcoreapp2.1\SOLIDImplementation.dll
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\bin\Debug\netcoreapp2.1\SOLIDImplementation.pdb
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\obj\Debug\netcoreapp2.1\SOLIDImplementation.csprojAssemblyReference.cache
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\obj\Debug\netcoreapp2.1\SOLIDImplementation.csproj.CoreCompileInputs.cache
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\obj\Debug\netcoreapp2.1\SOLIDImplementation.AssemblyInfoInputs.cache
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\obj\Debug\netcoreapp2.1\SOLIDImplementation.AssemblyInfo.cs
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\obj\Debug\netcoreapp2.1\SOLIDImplementation.dll
+C:\Users\tejas.kulkarni\source\repos\SOLIDImplementation\SOLIDImplementation\obj\Debug\netcoreapp2.1\SOLIDImplementation.pdb
